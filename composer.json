@@ -1,0 +1,18 @@
+{
+    "name": "cs/annotation-rbac",
+    "description": "annotation rbac",
+    "authors": [
+        {
+            "name": "caoshen-php",
+            "email": "1531273950@qq.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "Cs\\RBAC\\": "src"
+        }
+    },
+    "require": {
+		"php": ">=7.0"
+	}
+}
