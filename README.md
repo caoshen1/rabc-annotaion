@@ -1,4 +1,5 @@
 # rabc-annotaion
+composer require caoshen1/annotation-rbac
 # 指定路径
 RbacService::setPath('路径','对应的命名空间');
 # 构建权限
